@@ -1,3 +1,87 @@
-body{
-    background-color: aquamarine;
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Roboto';
+}
+
+div#banner-header.col.position-relative.flex-column.justify-content-center{
+    background: rgba(0,0,0,0.6) url(/img/imagem.webp);
+    background-blend-mode: darken;
+    position:sticky;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    height: 100vh;
+}
+
+div.box-banner.position-absolute.top-50.start-50.translate-middle{
+    width: 700px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.btn-main{
+    height: 60px;
+    width: 130px;
+    background: transparent;
+    border: solid white 1px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-main:hover{
+    background-color: #2e3543b7;
+    color: rgb(255, 255, 255);
+    transition: .7s;
+}
+
+.col.box-1{
+    background: rgba(0,0,0,0.5) url(/img/Food_!.webp);
+    background-blend-mode: darken;
+    background-size: 100% 100%;
+    background-position: fixed;
+    height: 760px;
+}
+
+.col.box-2{
+    background: rgba(0,0,0,0.5) url(/img/Food_2.webp);
+    background-blend-mode: darken;
+    background-size: 100% 100%;
+    background-position: fixed;
+    height: 760px;
+}
+
+.col.box-3{
+    background: rgba(0,0,0,0.5) url(/img/Food_3.webp);
+    background-blend-mode: darken;
+    background-size: 100% 100%;
+    background-position: fixed;
+    height: 760px;
+}
+
+.box-about-1 ,img{
+    background-color: #F0F3F6;
+    height: 700px;
+}
+
+.form-control-form{
+    border: white;
+    border-bottom: 1px solid gray;
+}
+
+.link{
+    text-decoration: none;
+    color: gray;
+}
+
+.a-404{
+    text-decoration: none;
+}
+
+footer{
+    height: 50px;
 }
