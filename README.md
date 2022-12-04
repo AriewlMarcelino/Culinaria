@@ -4,5 +4,4 @@ Pagina Culinaria
 ![Cap2](https://user-images.githubusercontent.com/105161714/205509964-6a586e5d-71fc-439d-b855-2ff44722d3a7.PNG)
 ![Cap3](https://user-images.githubusercontent.com/105161714/205509965-03c134d5-e262-4348-bd44-9f82bb482e9b.PNG)
 ![Cap4](https://user-images.githubusercontent.com/105161714/205509966-a3f110bd-f889-4dc9-85d6-4c846510221c.PNG)
-![Cap5](https://user-images.githubusercontent.com/105161714/205509967-961c4af8-2497-4bb4-b418-0eb51e31afcf.PNG)
 ![cap6](https://user-images.githubusercontent.com/105161714/205509968-593e0f12-bdab-43c8-aeaf-93361c969e41.PNG)
